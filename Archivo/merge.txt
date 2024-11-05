@@ -8,5 +8,17 @@ con la sociedad, aprender mas sobre el funcionamiento de la programacion y apren
 
 
 
+¿Por que ahora puedes crear un commit y subir la carpeta?
+
+
+por lo que entiendo ahora mismo podemos hacer esto debido a que los cambios que hemos realizado hasta el momento no provocan ninguna clase de conflico con los
+
+ya establecidos en el proyecto ya que ningun documento crea conflicto con este recien creado en el poryecto, y aunque no sea recomendable modificar este proyecto
+
+tanto desde el local de nuestro computador como desde la web al no provocar errores es posible hacerlo.
+
+
+
+
 
 
