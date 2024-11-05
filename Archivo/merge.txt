@@ -18,7 +18,13 @@ ya establecidos en el proyecto ya que ningun documento crea conflicto con este r
 tanto desde el local de nuestro computador como desde la web al no provocar errores es posible hacerlo.
 
 
+¿Por que es importante tener cuidado al modificar un mismo archivo desde diferentes ubicaciones?
 
+en este ejercicio pudimos ver porque es importante tener cuidado con modificar un mismo archivo desde distintas ubicaciones en este caso
+pudimos mantener ambos cambios al ser solo un archivo de texto y no presentamos daños en nuestro trabajo pero en un hipotetico caso que
+esto ocurra en otro tipo de archivos como un programa podemos perder horas de valioso esfuerzo y trabajo ademas de restrasarnos y afectar
+tanto a nosotros como al equipo, siempre se deben comunicar los cambios al respositorio y tener cuidado con la informacion que subimos
+para no dañar y desperdiciar el trabajo nuestro y de los demas
 
 
 
